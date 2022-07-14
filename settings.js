@@ -56,7 +56,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['918089504207'] //ur owner number
 global.ownername = "🦄Vipin💫" //ur owner name
-global.ytname = "Insta:https://www.instagram.com/_dc__soul/ " //ur yt chanel name
+global.instaname = "Insta:https://www.instagram.com/_dc__soul/ " //ur yt chanel name
 global.socialm = "https://www.instagram.com/_dc__soul/" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -65,8 +65,8 @@ global.owner = ['918089504207']
 global.ownertag = '8089504207' //ur tag number
 global.botname = 'SOUL' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.instagram.com/_dc__soul/" //ur website to be displayed
-global.botscript = 'https://www.instagram.com/_dc__soul/' //script link
+global.websitex = "https://chat.whatsapp.com/J949Wv6ywRX0CpqcmvTPYk" //ur website to be displayed
+global.botscript = '' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
